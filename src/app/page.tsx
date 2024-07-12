@@ -1,5 +1,4 @@
 "use client";
-import ReactPlayer from "react-player";
 
 const Home: React.FC = () => {
   return (
