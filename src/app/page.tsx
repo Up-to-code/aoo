@@ -14,7 +14,7 @@ const Home: React.FC = () => {
 
           <div className="flex mt-6 space-x-4 justify-center lg:justify-start">
             <a
-              href="https://expo.dev/artifacts/eas/abKjqWtE3xhArRooFky2Wi.apk"
+              href="https://utfs.io/f/c28ef263-8421-4c2c-8f5b-a4934efe4e0f-uycxz3.apk"
               className="px-4 py-2 text-white bg-blue-600 rounded-lg hover:bg-blue-500"
             >
               Download for Android
@@ -25,12 +25,12 @@ const Home: React.FC = () => {
           <div className="mt-10 w-full max-w-4xl">
             <div className="mt-4 aspect-w-16 aspect-h-9">
               <video
-                src="https://firebasestorage.googleapis.com/v0/b/k-store-app.appspot.com/o/Advanced%20Mobile%20App%20Promo_free.mp4?alt=media&token=1e41f35d-babf-4439-91d3-a688716b1804"
+                src="https://firebasestorage.googleapis.com/v0/b/k-store-app.appspot.com/o/WhatsApp%20Video%202024-08-08%20at%2019.04.06_4f711f0b.mp4?alt=media&token=ffd0f0e0-e128-4174-b7d5-cd0ad6dff805"
                 controls
                 className="rounded-xl  w-full h-80"
-               prefix="https://firebasestorage.googleapis.com/v0/b/k-store-app.appspot.com/o/sdsad.png?alt=media&token=7ad011a6-5f0e-4db9-a757-df791b2d5d29"
+                prefix="https://firebasestorage.googleapis.com/v0/b/k-store-app.appspot.com/o/WhatsApp%20Image%202024-08-08%20at%2019.04.06_0f5655c2.jpg?alt=media&token=47b277b9-f434-4a97-8643-46740088b304"
                 loop
-                poster="https://firebasestorage.googleapis.com/v0/b/k-store-app.appspot.com/o/sdsad.png?alt=media&token=7ad011a6-5f0e-4db9-a757-df791b2d5d29"
+                poster="https://firebasestorage.googleapis.com/v0/b/k-store-app.appspot.com/o/WhatsApp%20Image%202024-08-08%20at%2019.04.06_0f5655c2.jpg?alt=media&token=47b277b9-f434-4a97-8643-46740088b304"
               ></video>
             </div>
           </div>
